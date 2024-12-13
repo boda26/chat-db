@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock,release_date
+1,iPhone 14,Electronics,999.99,500,2022-09-16
+2,Galaxy S23,Electronics,899.99,600,2023-02-01
+3,MacBook Pro,Laptops,1999.99,300,2023-03-15
+4,Dell XPS 13,Laptops,1499.99,200,2022-12-10
+5,AirPods Pro,Accessories,249.99,1000,2023-01-25
+6,Fitbit Versa 4,Accessories,229.99,400,2023-04-10
+7,Nike Air Max,Shoes,149.99,750,2022-11-05
+8,Adidas Ultraboost,Shoes,180.00,650,2023-02-15
+9,Sony WH-1000XM5,Electronics,399.99,450,2023-05-20
+10,GoPro Hero 11,Cameras,499.99,300,2023-06-23
